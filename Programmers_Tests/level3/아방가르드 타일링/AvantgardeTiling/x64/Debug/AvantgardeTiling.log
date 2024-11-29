@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\DuhiSample\Programmers_Tests\level3\아방가르드 타일링\AvantgardeTiling\main.cpp(37,9): warning C4101: 'n' :참조되지 않은 지역 변수입니다.
+  AvantgardeTiling.vcxproj -> C:\DuhiSample\Programmers_Tests\level3\아방가르드 타일링\AvantgardeTiling\x64\Debug\AvantgardeTiling.exe

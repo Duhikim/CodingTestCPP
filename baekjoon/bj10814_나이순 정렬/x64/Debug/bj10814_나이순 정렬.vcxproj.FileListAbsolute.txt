@@ -1,0 +1,1 @@
+C:\DuhiSample\baekjoon\bj10814_나이순 정렬\x64\Debug\bj10814_나이순 정렬.exe

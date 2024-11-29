@@ -1,0 +1,8 @@
+﻿  Secondorderroot_source.cpp
+  소스.cpp
+C:\DuhiSample\Secondorderroot\소스.cpp(68,13): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Secondorderroot\소스.cpp(71,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Secondorderroot\소스.cpp(72,35): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Secondorderroot\소스.cpp(76,13): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  Secondorderroot.vcxproj -> C:\DuhiSample\Secondorderroot\x64\Debug\Secondorderroot.exe

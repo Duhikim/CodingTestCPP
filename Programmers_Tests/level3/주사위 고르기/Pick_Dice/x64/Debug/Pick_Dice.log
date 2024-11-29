@@ -1,0 +1,21 @@
+﻿  main.cpp
+C:\DuhiSample\Programmers_Tests\level3\주사위 고르기\Pick_Dice\main.cpp(22,68): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level3\주사위 고르기\Pick_Dice\main.cpp(23,76): warning C4267: '인수': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level3\주사위 고르기\Pick_Dice\main.cpp(66,17): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level3\주사위 고르기\Pick_Dice\main.cpp(87,11): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level3\주사위 고르기\Pick_Dice\main.cpp(172,30): warning C4244: '+=': '__int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\DuhiSample\Programmers_Tests\level3\주사위 고르기\Pick_Dice\main.cpp(173,29): warning C4244: '+=': '__int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+C:\DuhiSample\Programmers_Tests\level3\주사위 고르기\Pick_Dice\main.cpp(174,43): warning C4244: '+=': '__int64'에서 '_Ty'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Ty=int
+          ]
+  Pick_Dice.vcxproj -> C:\DuhiSample\Programmers_Tests\level3\주사위 고르기\Pick_Dice\x64\Debug\Pick_Dice.exe

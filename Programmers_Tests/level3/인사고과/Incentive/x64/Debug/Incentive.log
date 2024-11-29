@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\DuhiSample\Programmers_Tests\level3\인사고과\Incentive\main.cpp(31,16): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level3\인사고과\Incentive\main.cpp(34,26): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level3\인사고과\Incentive\main.cpp(54,87): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Incentive.vcxproj -> C:\DuhiSample\Programmers_Tests\level3\인사고과\Incentive\x64\Debug\Incentive.exe

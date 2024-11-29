@@ -1,0 +1,14 @@
+﻿  main.cpp
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(30,23): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '__int64'입니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(30,23): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(30,23): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(30,23): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(41,23): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 '__int64'입니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(41,23): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(41,23): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(41,23): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(48,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 '__int64'입니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(48,12): message : 서식 문자열에서 '%lld'을(를) 사용하는 것이 좋습니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(48,12): message : 서식 문자열에서 '%Id'을(를) 사용하는 것이 좋습니다.
+C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\main.cpp(48,12): message : 서식 문자열에서 '%I64d'을(를) 사용하는 것이 좋습니다.
+  integers_btw_two_circles.vcxproj -> C:\DuhiSample\Programmers_Tests\level2\두 원 사이 정수 쌍\integers_btw_two_circles\x64\Debug\integers_btw_two_circles.exe

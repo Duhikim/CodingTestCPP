@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\DuhiSample\Programmers_Tests\level3\수레 움직이기\practice\main.cpp(30,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level3\수레 움직이기\practice\main.cpp(31,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level3\수레 움직이기\practice\main.cpp(77,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level3\수레 움직이기\practice\main.cpp(78,8): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  practice.vcxproj -> C:\DuhiSample\Programmers_Tests\level3\수레 움직이기\practice\x64\Debug\practice.exe

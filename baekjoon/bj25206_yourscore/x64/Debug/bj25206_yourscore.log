@@ -1,0 +1,5 @@
+﻿  소스.cpp
+C:\DuhiSample\baekjoon\bj25206_yourscore\소스.cpp(15,12): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  소스1.cpp
+C:\DuhiSample\baekjoon\bj25206_yourscore\소스1.cpp(11,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  코드를 생성하고 있습니다...

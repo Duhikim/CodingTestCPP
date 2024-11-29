@@ -1,0 +1,7 @@
+﻿  paintcopy.cpp
+  소스.cpp
+  코드를 생성하고 있습니다...
+소스.obj : error LNK2005: "void __cdecl fileinput(void)" (?fileinput@@YAXXZ)이(가) paintcopy.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: main이(가) paintcopy.obj에 이미 정의되어 있습니다.
+소스.obj : error LNK2005: "char * ifname" (?ifname@@3PADA)이(가) paintcopy.obj에 이미 정의되어 있습니다.
+C:\DuhiSample\file_input_output\x64\Debug\file_input_output.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

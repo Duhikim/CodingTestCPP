@@ -1,0 +1,4 @@
+﻿  소스.cpp
+C:\DuhiSample\Programmers_Tests\level4\행렬과 연산\MatrixAndOperation\소스.cpp(12,13): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level4\행렬과 연산\MatrixAndOperation\소스.cpp(12,30): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  MatrixAndOperation.vcxproj -> C:\DuhiSample\Programmers_Tests\level4\행렬과 연산\MatrixAndOperation\x64\Debug\MatrixAndOperation.exe

@@ -1,0 +1,2 @@
+C:\DuhiSample\Sorttest1\x64\Debug\Sorttest1.exe
+C:\DuhiSample\Sorting\Sorttest1\x64\Debug\Sorttest1.exe

@@ -1,0 +1,4 @@
+C:\DuhiSample\CLR\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\DuhiSample\CLR\Project1\x64\Debug\Project1.MyForm.resources
+C:\DuhiSample\CLR\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\DuhiSample\CLR\Project1\x64\Debug\Project1.exe

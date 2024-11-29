@@ -1,0 +1,10 @@
+# Visual Studio 관련 임시 파일 및 폴더
+*.vc.db
+*.ipch
+.vs/
+
+# Qt 관련 임시 파일
+*.pro.user
+*.ipch
+
+Qt Project/

@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+C:\DuhiSample\CLR\Project1\MyForm.cpp(7,33): warning C4829: main 함수에 대한 매개 변수가 잘못된 것 같습니다. 'int main(Platform::Array<Platform::String^>^ argv)'를 사용하십시오.
+  MyForm.obj : MSIL 모듈이 발견되었습니다. MSIL에 증분 링크를 사용할 수 없습니다. 전체 링크를 수행하고 있습니다.
+  Project1.vcxproj -> C:\DuhiSample\CLR\Project1\x64\Debug\Project1.exe

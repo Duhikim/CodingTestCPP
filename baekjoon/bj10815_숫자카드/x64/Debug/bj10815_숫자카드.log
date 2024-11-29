@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\DuhiSample\baekjoon\bj10815_숫자카드\소스.cpp(27,12): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\DuhiSample\baekjoon\bj10815_숫자카드\소스.cpp(27,12): message : 수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+C:\DuhiSample\baekjoon\bj10815_숫자카드\소스.cpp(27,12): message : 'nn' 사용량 참조
+C:\DuhiSample\baekjoon\bj10815_숫자카드\소스.cpp(33,13): error C2131: 식이 상수로 계산되지 않았습니다.
+C:\DuhiSample\baekjoon\bj10815_숫자카드\소스.cpp(33,13): message : 수명을 벗어난 변수 읽기로 인해 오류가 발생했습니다.
+C:\DuhiSample\baekjoon\bj10815_숫자카드\소스.cpp(33,13): message : 'mm' 사용량 참조

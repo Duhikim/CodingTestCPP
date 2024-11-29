@@ -1,0 +1,4 @@
+C:\DuhiSample\CLR\CLRProject1\x64\Release\CLRProject1.vcxproj.AssemblyReference.cache
+C:\DuhiSample\CLR\CLRProject1\x64\Release\CLRProject1.MyForm.resources
+C:\DuhiSample\CLR\CLRProject1\x64\Release\CLRProject1.vcxproj.GenerateResource.cache
+C:\DuhiSample\CLR\CLRProject1\x64\Release\CLRProject1.exe

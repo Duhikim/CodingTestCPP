@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\DuhiSample\Programmers_Tests\level2\아날로그 시계\Analog_Clock\main.cpp(81,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level2\아날로그 시계\Analog_Clock\main.cpp(84,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level2\아날로그 시계\Analog_Clock\main.cpp(89,21): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level2\아날로그 시계\Analog_Clock\main.cpp(117,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level2\아날로그 시계\Analog_Clock\main.cpp(121,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level2\아날로그 시계\Analog_Clock\main.cpp(128,25): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level2\아날로그 시계\Analog_Clock\main.cpp(148,27): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\DuhiSample\Programmers_Tests\level2\아날로그 시계\Analog_Clock\main.cpp(156,26): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Analog_Clock.vcxproj -> C:\DuhiSample\Programmers_Tests\level2\아날로그 시계\Analog_Clock\x64\Debug\Analog_Clock.exe
