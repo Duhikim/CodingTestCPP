@@ -6,59 +6,28 @@
 #include <algorithm>
 using namespace std;
 
-class MyClass {
-public:
-    int faceNum;
-    int innerNum;
+long long F(int n) {
+    if (n == 0) return 1;
+    if (n == 1) return 1;
 
-    MyClass(int i) {
-        faceNum = i;
-        innerNum = 5 - i;
+    long long prev_prev = 1;
+    long long  prev = 1;
+    long long curr = 0;
+    for (int i = 2; i <= n; i++) {
+        curr = prev + prev_prev;
+        prev_prev = prev;
+        prev = curr;
+        
     }
-};
-
-bool compare(MyClass A, MyClass B) {
-    int a = A.faceNum, b = B.faceNum;
-    cout << std::boolalpha << "[ a : " << a << " , b : " << b << " , a <= b : " << (bool)(a <= b) << " ]" << '\n';
-    return a < b;
+    return curr;
 }
 
 int main() {
+    int n;
+    while (cin >> n && n >= 0) {
+        cout << "Fibonacci[" << n << "] = " << F(n) << '\n';
+    }
+    cout << "프로그램 종료\n";
    
-    vector<MyClass> aVec;
-
-    MyClass temp1(3);
-    aVec.push_back(temp1);
-    MyClass temp2(2);
-    aVec.push_back(temp2);
-    MyClass temp3(5);
-    aVec.push_back(temp3);
-    MyClass temp4(1);
-    aVec.push_back(temp4);
-    MyClass temp5(4);
-    aVec.push_back(temp5);
-    MyClass temp6(6);
-    temp6.faceNum = 3;    
-    aVec.push_back(temp6);
-
-    cout << "Before Sort\n";
-    for (int i = 0; i < 6; i++) {
-        cout << aVec[i].faceNum << " , ";
-    }cout << '\n';
-    for (int i = 0; i < 6; i++) {
-        cout << aVec[i].innerNum << " , ";
-    }cout << '\n';
-    
-    sort(aVec.begin(), aVec.end(), compare);
-
-
-    cout << "After Sort\n";
-    for (int i = 0; i < 6; i++) {
-        cout << aVec[i].faceNum << " , ";
-    }cout << '\n';
-    for (int i = 0; i < 6; i++) {
-        cout << aVec[i].innerNum << " , ";
-    }cout << '\n';
-    
     return 0;
 }
