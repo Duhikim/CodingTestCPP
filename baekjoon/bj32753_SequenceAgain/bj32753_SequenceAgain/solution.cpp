@@ -9,7 +9,7 @@ int main() {
 	cin >> N >> K;
 	
 	if (N==2 && K==1) {
-		cout << 1 << endl;
+		cout << "1 2" << endl;
 		return 0;
 	}
 
